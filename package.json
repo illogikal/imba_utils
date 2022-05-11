@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "build": "imbac index.imba",
+        "build": "imbac index.imba"
     },
     "dependencies": {
         "imba": "^2.0.0-alpha.207"
